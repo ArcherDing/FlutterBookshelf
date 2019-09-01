@@ -14,3 +14,5 @@
 * [ ] JSOUP库
 * [ ] JsonPath库
 * [ ] JS表达式库
+* [ ] java.*方法
+* [ ] dart.*方法
